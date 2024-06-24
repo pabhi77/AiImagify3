@@ -22,5 +22,6 @@ npm start
 
 Visit `http://localhost:5000` in your browser.
 Hosted Link:https://aiimagify7.onrender.com/
-Note:if link is not working probably Api key is expired or Account has exhausted the limit.
+
+Note: If link is not working probably Api key is expired or Account has exhausted the limit.
 
