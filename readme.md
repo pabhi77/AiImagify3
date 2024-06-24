@@ -21,5 +21,6 @@ npm start
 ```
 
 Visit `http://localhost:5000` in your browser.
+Hosted Link:https://aiimagify7.onrender.com/
 
 
