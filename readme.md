@@ -24,4 +24,6 @@ Visit `http://localhost:5000` in your browser.
 Hosted Link:https://aiimagify7.onrender.com/
 
 Note: If link is not working probably Api key is expired or Account has exhausted the limit.
+      OPEENAI api is not free anymore so API will not be woking 
+      trying to build again with stable diffusion api
 
